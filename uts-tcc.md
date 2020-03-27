@@ -10,7 +10,7 @@
 
 3. Selanjutnya kita melakukan clone/pull terhadap repository git yang didalamnya terdapat beberapa image docker(disediakan didalam fitur getting started dockerhub)
 
-4. Setelah proses clone selesai, saya memilih untuk menggunakan image docker dengan nama halloween2019, dengan saya memilih image docker tersebut maka saya masuk kedalam direktori image docker tersebut.didalam direktori kita dapat menggunakan perintah build untuk menjalankan isi dari DockerFile image halloween2019
+4. Setelah proses clone selesai, saya memilih untuk menggunakan image docker dengan nama halloween2019, dengan saya memilih image docker tersebut maka saya masuk kedalam direktori image docker tersebut didalam direktori kita dapat menggunakan perintah build untuk menjalankan isi dari DockerFile image halloween2019
 
 ![build](build-halloween.jpg)
 
